@@ -19,7 +19,7 @@ Blog where I combined React.js, Node.js and Google Cloud in a full-stack, full-f
 ## Screenshots 📺
 
 <p align="center">
-    <img src="/my-blog/public/assets/Screenshot-Travel-Blog.png" alt="Screenshot of website">
+    <img src="https://github.com/Gorky1985/my-blog/blob/main/public/assets/Screenshot-Travel-Blog.png?raw=true">
 </p>
 
 ## Installation 💾
