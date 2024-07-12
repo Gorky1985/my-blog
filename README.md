@@ -9,7 +9,7 @@ Blog where I combined ReactJS, NodeJS and Google Cloud in a full-stack, full-fea
 
 - HTML
 - CSS
-- Javascript
+- JavaScript
 - ReactJS
 - NodeJS
 - Mongo DB
