@@ -9,33 +9,14 @@ const articles = [
     imgHeroTwo: "../assets/vienna-hero2.webp",
     imgHeroTwoAlt: "Another bridge and city panorama",
     content: [
-      `Vienna is the capital, largest city, and one of nine provinces of Austria. Vienna is Austria's most populous city and its primate city, with about two million inhabitants (2.9 million within the metropolitan area, nearly one third of the country's population), and its cultural, economic, and political center. It is the 6th-largest city proper by population in the European Union and the largest of all cities on the Danube river.`,
-      `Donec vel mauris lectus. Etiam nec lectus urna. Sed sodales ultrices dapibus. 
-            Nam blandit tristique risus, eget accumsan nisl interdum eu. Aenean ac accumsan 
-            nisi. Nunc vel pulvinar diam. Nam eleifend egestas viverra. Donec finibus lectus 
-            sed lorem ultricies, eget ornare leo luctus. Morbi vehicula, nulla eu tempor 
-            interdum, nibh elit congue tellus, ac vulputate urna lorem nec nisi. Morbi id 
-            consequat quam. Vivamus accumsan dui in facilisis aliquet.`,
-      `Etiam nec lectus urna. Sed sodales ultrices dapibus. 
-            Nam blandit tristique risus, eget accumsan nisl interdum eu. Aenean ac accumsan 
-            nisi. Nunc vel pulvinar diam. Nam eleifend egestas viverra. Donec finibus lectus 
-            sed lorem ultricies, eget ornare leo luctus. Morbi vehicula, nulla eu tempor 
-            interdum, nibh elit congue tellus, ac vulputate urna lorem nec nisi. Morbi id 
-            consequat quam. Vivamus accumsan dui in facilisis aliquet.`,
+      `Vienna, the capital of Austria, is a city steeped in rich history, captivating culture, and stunning architecture. As you stroll through the charming streets, you'll be greeted by elegant palaces, grandiose cathedrals, and picturesque parks. The city's imperial past is evident in its opulent landmarks, including the iconic Schönbrunn Palace and the magnificent Hofburg Palace, which once served as the winter residence of the Habsburg dynasty.`,
+      `Beyond its historical treasures, Vienna boasts a vibrant cultural scene that attracts visitors from around the globe. From the world-renowned Vienna State Opera to the vibrant Naschmarkt, where you can sample delicious local delicacies, there's no shortage of things to see and do. Art lovers will revel in the city's numerous museums and galleries, showcasing everything from classical masterpieces to contemporary works by Austrian artists.`,
+      `Vienna is also celebrated for its culinary delights, offering a diverse array of gastronomic experiences to suit every palate. Indulge in traditional Viennese cuisine, such as Wiener Schnitzel and Sachertorte, or savor international flavors at one of the city's trendy eateries. With its perfect blend of history, culture, and culinary delights, Vienna is a captivating destination that promises to enchant and delight visitors of all ages.`,
     ],
     titleMid: "Why to visit",
     contentTwo: [
-      `Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi
-    nostrum, dolore laboriosam unde, nihil fugiat vel cupiditate
-    aperiam beatae assumenda sunt illo. Doloremque unde, deserunt
-    totam quibusdam mollitia nam et. Lorem ipsum dolor sit amet
-    consectetur adipisicing elit. Quasi nostrum, dolore laboriosam
-    unde, nihil fugiat vel cupiditate aperiam beatae assumenda sunt
-    illo. Doloremque unde, deserunt totam quibusdam mollitia nam et.`,
-      `Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi
-    nostrum, dolore laboriosam unde, nihil fugiat vel cupiditate
-    aperiam beatae assumenda sunt illo. Doloremque unde, deserunt
-    totam quibusdam mollitia nam et`,
+      `Vienna's allure lies in its captivating blend of history, culture, and sophistication, making it a destination well worth visiting. As the former imperial capital of the Habsburg Empire, the city is adorned with stunning palaces, majestic cathedrals, and elegant boulevards, offering a glimpse into its illustrious past. From the opulent Schönbrunn Palace to the historic St. Stephen's Cathedral, Vienna's architectural marvels showcase centuries of grandeur and refinement.`,
+      `Moreover, Vienna is a cultural powerhouse, boasting world-class museums, renowned opera houses, and vibrant music scene. Visitors can immerse themselves in the works of masters like Gustav Klimt and Egon Schiele at the Belvedere Museum, or experience the magic of a performance at the Vienna State Opera. With its rich cultural heritage, exquisite cuisine, and timeless elegance, Vienna promises an unforgettable journey that delights the senses and enriches the soul.`,
     ],
   },
   {
@@ -48,33 +29,14 @@ const articles = [
     imgHeroTwo: "../assets/makarska-hero2.webp",
     imgHeroTwoAlt: "Another bridge and city panorama",
     content: [
-      `Makarska is a town on the Adriatic coastline of Croatia, about 60 km (37 mi) southeast of Split and 140 km (87 mi) northwest of Dubrovnik, in the Split-Dalmatia County. Makarska is a prominent regional tourist center, located on a horseshoe-shaped bay between the Biokovo mountains and the Adriatic Sea. The city is noted for its palm-fringed promenade, where cafes, bars and boutiques overlook the harbor. Adjacent to the beach are several large capacity hotels as well as a camping grounds. Makarska is the center of the Makarska Riviera, a popular tourist destination under the Biokovo mountain. It stretches for 60 km (37 mi) between the municipalities of Brela and Gradac.`,
-      `Donec vel mauris lectus. Etiam nec lectus urna. Sed sodales ultrices dapibus. 
-            Nam blandit tristique risus, eget accumsan nisl interdum eu. Aenean ac accumsan 
-            nisi. Nunc vel pulvinar diam. Nam eleifend egestas viverra. Donec finibus lectus 
-            sed lorem ultricies, eget ornare leo luctus. Morbi vehicula, nulla eu tempor 
-            interdum, nibh elit congue tellus, ac vulputate urna lorem nec nisi. Morbi id 
-            consequat quam. Vivamus accumsan dui in facilisis aliquet.`,
-      `Etiam nec lectus urna. Sed sodales ultrices dapibus. 
-            Nam blandit tristique risus, eget accumsan nisl interdum eu. Aenean ac accumsan 
-            nisi. Nunc vel pulvinar diam. Nam eleifend egestas viverra. Donec finibus lectus 
-            sed lorem ultricies, eget ornare leo luctus. Morbi vehicula, nulla eu tempor 
-            interdum, nibh elit congue tellus, ac vulputate urna lorem nec nisi. Morbi id 
-            consequat quam. Vivamus accumsan dui in facilisis aliquet.`,
+      `Makarska, situated along the captivating Dalmatian coastline of Croatia, is a charming coastal town renowned for its stunning beaches, azure waters, and dramatic mountain backdrop. Its idyllic setting between the sparkling Adriatic Sea and the towering Biokovo Mountain Range makes it a sought-after destination for beach lovers and outdoor enthusiasts alike. The town's main beach, lined with vibrant cafes and bars, offers a perfect spot for sunbathing and swimming, while nearby hidden coves beckon visitors to explore their secluded beauty.`,
+      `Beyond its natural splendor, Makarska boasts a rich history dating back centuries, evident in its well-preserved old town and historic landmarks. Stroll through the narrow cobblestone streets to discover ancient churches, charming squares, and traditional stone houses adorned with colorful shutters. The iconic St. Mark's Church, with its distinctive bell tower, stands as a testament to the town's cultural and architectural heritage. Visitors can also explore the bustling waterfront promenade, where local fishermen sell their catch of the day and lively markets showcase fresh produce and handmade crafts.`,
+      `Makarska's allure extends beyond its scenic beauty and historical charm, offering visitors a plethora of activities and experiences to enjoy. From exhilarating water sports such as sailing and windsurfing to leisurely boat trips along the coast, there's no shortage of adventures to embark upon. Nature lovers can hike or cycle through the picturesque Biokovo Nature Park, marveling at its diverse flora and fauna and breathtaking panoramic views. With its perfect blend of natural beauty, cultural heritage, and outdoor activities, Makarska is a must-visit destination for anyone seeking an unforgettable Croatian coastal experience.`,
     ],
     titleMid: "Why to visit",
     contentTwo: [
-      `Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi
-    nostrum, dolore laboriosam unde, nihil fugiat vel cupiditate
-    aperiam beatae assumenda sunt illo. Doloremque unde, deserunt
-    totam quibusdam mollitia nam et. Lorem ipsum dolor sit amet
-    consectetur adipisicing elit. Quasi nostrum, dolore laboriosam
-    unde, nihil fugiat vel cupiditate aperiam beatae assumenda sunt
-    illo. Doloremque unde, deserunt totam quibusdam mollitia nam et.`,
-      `Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi
-    nostrum, dolore laboriosam unde, nihil fugiat vel cupiditate
-    aperiam beatae assumenda sunt illo. Doloremque unde, deserunt
-    totam quibusdam mollitia nam et`,
+      `Makarska, nestled along the captivating Dalmatian coastline of Croatia, beckons travelers with its unique blend of natural beauty, cultural richness, and recreational opportunities. Its pristine beaches, embraced by crystal-clear waters and framed by the majestic Biokovo Mountain Range, provide an idyllic setting for relaxation and exploration. Whether you choose to bask in the sun on the sandy shores, embark on a boat excursion to discover hidden coves, or venture into the rugged terrain of Biokovo Nature Park, Makarska offers a diverse array of outdoor experiences amidst breathtaking scenery.`,
+      `Moreover, Makarska's appeal extends beyond its picturesque landscapes, captivating visitors with its storied past and vibrant ambiance. The town's enchanting old quarter, characterized by winding cobblestone streets and historic landmarks, invites wanderers to delve into its rich history. From ancient churches to bustling markets, there are abundant cultural gems waiting to be uncovered. Additionally, Makarska's lively waterfront promenade bustles with activity, boasting a plethora of dining, shopping, and entertainment options. Whether you're drawn to its natural wonders, cultural heritage, or vibrant atmosphere, Makarska promises an unforgettable sojourn that embodies the essence of coastal Croatia.`,
     ],
   },
   {
@@ -87,33 +49,14 @@ const articles = [
     imgHeroTwo: "../assets/venice-hero2.webp",
     imgHeroTwoAlt: "Another bridge and city panorama",
     content: [
-      `Venice is a city in northeastern Italy and the capital of the Veneto region. It is built on a group of 118 small islands that are separated by expanses of open water and by canals; portions of the city are linked by over 400 bridges. The islands are in the shallow Venetian Lagoon, an enclosed bay lying between the mouths of the Po and the Piave rivers (more exactly between the Brenta and the Sile). In 2020, around 258,685 people resided in greater Venice or the Comune di Venezia, of whom around 51,000 live in the historical island city of Venice (centro storico) and the rest on the mainland (terraferma). Together with the cities of Padua and Treviso, Venice is included in the Padua-Treviso-Venice Metropolitan Area (PATREVE), which is considered a statistical metropolitan area, with a total population of 2.6 million.`,
-      `Donec vel mauris lectus. Etiam nec lectus urna. Sed sodales ultrices dapibus. 
-            Nam blandit tristique risus, eget accumsan nisl interdum eu. Aenean ac accumsan 
-            nisi. Nunc vel pulvinar diam. Nam eleifend egestas viverra. Donec finibus lectus 
-            sed lorem ultricies, eget ornare leo luctus. Morbi vehicula, nulla eu tempor 
-            interdum, nibh elit congue tellus, ac vulputate urna lorem nec nisi. Morbi id 
-            consequat quam. Vivamus accumsan dui in facilisis aliquet.`,
-      `Etiam nec lectus urna. Sed sodales ultrices dapibus. 
-            Nam blandit tristique risus, eget accumsan nisl interdum eu. Aenean ac accumsan 
-            nisi. Nunc vel pulvinar diam. Nam eleifend egestas viverra. Donec finibus lectus 
-            sed lorem ultricies, eget ornare leo luctus. Morbi vehicula, nulla eu tempor 
-            interdum, nibh elit congue tellus, ac vulputate urna lorem nec nisi. Morbi id 
-            consequat quam. Vivamus accumsan dui in facilisis aliquet.`,
+      `Venice, known as the "City of Canals," is a mesmerizing destination unlike any other. Situated in northeastern Italy, this unique city is built on a network of more than 100 small islands, interconnected by a maze of picturesque canals and charming bridges. Its timeless beauty is exemplified by the grandeur of iconic landmarks such as St. Mark's Basilica, with its intricate Byzantine architecture, and the elegant Doge's Palace, once the seat of Venetian power. Visitors can lose themselves in the labyrinthine streets of the historic center, where every corner reveals hidden treasures and centuries-old history.`,
+      `One of the most enchanting aspects of Venice is its distinctive mode of transportation: gondolas. These sleek black boats, propelled by expert gondoliers, offer a romantic and iconic way to explore the city's waterways. Drift beneath ornate bridges, past centuries-old palaces, and alongside bustling piazzas, immersing yourself in the timeless allure of Venetian life. Beyond the gondola rides, visitors can also enjoy leisurely strolls along the scenic waterfront promenades or hop aboard vaporetti, the city's water buses, for a unique perspective of Venice from the Grand Canal.`,
+      `Venice's rich cultural heritage is evident in its vibrant art scene, renowned museums, and lively festivals. Art enthusiasts can marvel at masterpieces by Titian, Tintoretto, and other Venetian masters at the Gallerie dell'Accademia or explore contemporary works at the Peggy Guggenheim Collection. Throughout the year, the city comes alive with events such as the Venice Biennale, showcasing cutting-edge contemporary art, and the historic Carnival of Venice, where elaborate masks and costumes fill the streets with color and revelry. With its timeless charm, romantic atmosphere, and wealth of cultural treasures, Venice is a destination that promises an unforgettable experience for travelers seeking to immerse themselves in the beauty and history of Italy's floating city.`,
     ],
     titleMid: "Why to visit",
     contentTwo: [
-      `Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi
-    nostrum, dolore laboriosam unde, nihil fugiat vel cupiditate
-    aperiam beatae assumenda sunt illo. Doloremque unde, deserunt
-    totam quibusdam mollitia nam et. Lorem ipsum dolor sit amet
-    consectetur adipisicing elit. Quasi nostrum, dolore laboriosam
-    unde, nihil fugiat vel cupiditate aperiam beatae assumenda sunt
-    illo. Doloremque unde, deserunt totam quibusdam mollitia nam et.`,
-      `Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi
-    nostrum, dolore laboriosam unde, nihil fugiat vel cupiditate
-    aperiam beatae assumenda sunt illo. Doloremque unde, deserunt
-    totam quibusdam mollitia nam et`,
+      `Venice is worth visiting for its unparalleled beauty and unique charm. The city's intricate network of canals, lined with historic buildings and adorned with graceful bridges, creates a magical atmosphere that captivates visitors from around the world. Whether you're gliding along the Grand Canal in a gondola, exploring hidden alleyways on foot, or admiring iconic landmarks like St. Mark's Basilica and the Rialto Bridge, every moment in Venice feels like stepping into a fairytale.`,
+      `Moreover, Venice offers a wealth of cultural experiences that appeal to travelers of all interests. From world-class art museums showcasing masterpieces by Venetian masters to vibrant festivals celebrating the city's rich heritage, there's always something to see and do in Venice. Whether you're savoring delicious Venetian cuisine at a waterfront trattoria, shopping for exquisite Murano glass souvenirs, or simply soaking in the timeless beauty of this enchanting city, Venice promises an unforgettable journey filled with romance, history, and intrigue.`,
     ],
   },
   {
@@ -126,33 +69,14 @@ const articles = [
     imgHeroTwo: "../assets/seget-vranjica-hero2.webp",
     imgHeroTwoAlt: "Another bridge and city panorama",
     content: [
-      `Seget Vranjica is a village in the Split-Dalmatia County of Croatia. It is located on the Adriatic coast of Dalmatia, about 6 km west of Trogir, population 1,027 (2011). It is a tourist destination. Seget Vranjica lies mostly on a peninsula. On the east, it faces a forest called Medena and on the west is the Cape of Vranjica. The bay and port of Vranjica is on the northern side of the peninsula and on the south it faces the open coast. On the north, Seget Vranjica is protected by the hills and on the south is the Trogir channel with the Marina bay facing west`,
-      `Donec vel mauris lectus. Etiam nec lectus urna. Sed sodales ultrices dapibus. 
-              Nam blandit tristique risus, eget accumsan nisl interdum eu. Aenean ac accumsan 
-              nisi. Nunc vel pulvinar diam. Nam eleifend egestas viverra. Donec finibus lectus 
-              sed lorem ultricies, eget ornare leo luctus. Morbi vehicula, nulla eu tempor 
-              interdum, nibh elit congue tellus, ac vulputate urna lorem nec nisi. Morbi id 
-              consequat quam. Vivamus accumsan dui in facilisis aliquet.`,
-      `Etiam nec lectus urna. Sed sodales ultrices dapibus. 
-              Nam blandit tristique risus, eget accumsan nisl interdum eu. Aenean ac accumsan 
-              nisi. Nunc vel pulvinar diam. Nam eleifend egestas viverra. Donec finibus lectus 
-              sed lorem ultricies, eget ornare leo luctus. Morbi vehicula, nulla eu tempor 
-              interdum, nibh elit congue tellus, ac vulputate urna lorem nec nisi. Morbi id 
-              consequat quam. Vivamus accumsan dui in facilisis aliquet.`,
+      `Seget Vranjica is a charming coastal village nestled along the stunning Adriatic coast of Croatia. Situated just a short distance from the historic town of Trogir, Seget Vranjica offers visitors a tranquil retreat surrounded by natural beauty. Its pristine beaches, lapped by crystal-clear waters, provide the perfect setting for relaxation and seaside enjoyment. Whether you're sunbathing on the shore, swimming in the Adriatic, or partaking in water sports like snorkeling and kayaking, Seget Vranjica offers a variety of outdoor activities for beachgoers of all ages.`,
+      `In addition to its scenic coastline, Seget Vranjica boasts a rich cultural heritage and a laid-back Mediterranean ambiance. The village's charming waterfront promenade is lined with cozy cafes, seafood restaurants, and ice cream parlors, where visitors can savor delicious local cuisine and soak in the picturesque views of the sea and surrounding islands. Strolling through the narrow cobblestone streets of the old town, you'll discover historic churches, traditional stone houses, and hidden squares, all steeped in centuries of history and charm.`,
+      `For those seeking adventure and exploration, Seget Vranjica serves as an ideal base for discovering the diverse attractions of the Dalmatian region. From day trips to nearby UNESCO World Heritage sites like Trogir and Split to excursions to the stunning Krka National Park or the islands of Hvar and Brač, there's no shortage of fascinating destinations to explore. Whether you're seeking relaxation, cultural immersion, or outdoor adventure, Seget Vranjica offers a serene and picturesque escape along the beautiful Croatian coast.`,
     ],
     titleMid: "Why to visit",
     contentTwo: [
-      `Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi
-    nostrum, dolore laboriosam unde, nihil fugiat vel cupiditate
-    aperiam beatae assumenda sunt illo. Doloremque unde, deserunt
-    totam quibusdam mollitia nam et. Lorem ipsum dolor sit amet
-    consectetur adipisicing elit. Quasi nostrum, dolore laboriosam
-    unde, nihil fugiat vel cupiditate aperiam beatae assumenda sunt
-    illo. Doloremque unde, deserunt totam quibusdam mollitia nam et.`,
-      `Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi
-    nostrum, dolore laboriosam unde, nihil fugiat vel cupiditate
-    aperiam beatae assumenda sunt illo. Doloremque unde, deserunt
-    totam quibusdam mollitia nam et`,
+      `Seget Vranjica is worth visiting for its idyllic coastal setting and laid-back Mediterranean charm. Nestled along the scenic Adriatic coast of Croatia, this charming village offers visitors a serene retreat away from the hustle and bustle of city life. Its pristine beaches, framed by crystal-clear waters and backed by lush greenery, provide the perfect backdrop for relaxation and rejuvenation. Whether you're sunbathing on the shore, swimming in the azure waters, or simply enjoying a leisurely stroll along the waterfront promenade, Seget Vranjica promises a peaceful and picturesque escape.`,
+      `Moreover, Seget Vranjica is a gateway to exploring the diverse attractions of the Dalmatian region. From its convenient location near historic towns like Trogir and Split to its proximity to stunning natural wonders such as Krka National Park and the nearby islands, there's no shortage of exciting day trip options for visitors to explore. Whether you're interested in cultural sightseeing, outdoor adventure, or simply soaking in the beauty of the Croatian coast, Seget Vranjica offers a delightful blend of relaxation and exploration for travelers seeking an authentic Adriatic experience.`,
     ],
   },
   {
@@ -165,33 +89,14 @@ const articles = [
     imgHeroTwo: "../assets/mostar-hero2.webp",
     imgHeroTwoAlt: "Another bridge and city panorama",
     content: [
-      `Mostar is a city and the administrative center of Herzegovina-Neretva Canton of the Federation of Bosnia and Herzegovina, an entity of Bosnia and Herzegovina, and the historical capital of Herzegovina. Mostar is situated on the Neretva River and is the fifth-largest city in the country. Mostar was named after the bridge keepers (mostari) who guarded the Stari Most (Old Bridge) over the Neretva during the Ottoman era. The Old Bridge, a UNESCO World Heritage Site, commissioned by Suleiman the Magnificent in the 16th century, is one of Bosnia and Herzegovina's most visited landmarks, and is considered an exemplary piece of Islamic architecture in the Balkans.`,
-      `Donec vel mauris lectus. Etiam nec lectus urna. Sed sodales ultrices dapibus. 
-              Nam blandit tristique risus, eget accumsan nisl interdum eu. Aenean ac accumsan 
-              nisi. Nunc vel pulvinar diam. Nam eleifend egestas viverra. Donec finibus lectus 
-              sed lorem ultricies, eget ornare leo luctus. Morbi vehicula, nulla eu tempor 
-              interdum, nibh elit congue tellus, ac vulputate urna lorem nec nisi. Morbi id 
-              consequat quam. Vivamus accumsan dui in facilisis aliquet.`,
-      `Etiam nec lectus urna. Sed sodales ultrices dapibus. 
-              Nam blandit tristique risus, eget accumsan nisl interdum eu. Aenean ac accumsan 
-              nisi. Nunc vel pulvinar diam. Nam eleifend egestas viverra. Donec finibus lectus 
-              sed lorem ultricies, eget ornare leo luctus. Morbi vehicula, nulla eu tempor 
-              interdum, nibh elit congue tellus, ac vulputate urna lorem nec nisi. Morbi id 
-              consequat quam. Vivamus accumsan dui in facilisis aliquet.`,
+      `Mostar, located in Bosnia and Herzegovina, is a city renowned for its rich history, stunning architecture, and vibrant cultural scene. The iconic Stari Most (Old Bridge), a UNESCO World Heritage site, stands as a symbol of Mostar's resilience and unity. Built in the 16th century by the Ottomans, this majestic bridge spans the turquoise waters of the Neretva River, connecting the city's diverse communities. Visitors can witness the centuries-old tradition of bridge jumping, where brave locals leap from the bridge into the river below, showcasing both skill and courage.`,
+      `Beyond its famous bridge, Mostar's old town is a captivating maze of cobblestone streets, lined with charming cafes, bustling bazaars, and historic landmarks. The atmospheric Kujundžiluk bazaar offers a glimpse into Mostar's Ottoman past, with its traditional shops selling handmade crafts, colorful textiles, and exquisite jewelry. History buffs will delight in exploring the city's diverse architectural heritage, from the grandiose Koski Mehmed Pasha Mosque to the imposing Neretva Hotel, which bears scars from the Bosnian War, serving as a poignant reminder of Mostar's tumultuous past.`,
+      `Moreover, Mostar's cultural richness extends beyond its architecture, with a thriving arts scene and a calendar filled with festivals and events. The Mostar Summer Festival, held annually, showcases a variety of cultural performances, including music, dance, and theater, drawing artists and audiences from across the region. Visitors can also sample traditional Bosnian cuisine at the city's many restaurants, savoring specialties such as cevapi (grilled meat) and burek (savory pastry). With its blend of history, culture, and natural beauty, Mostar offers a truly unforgettable experience for travelers seeking to immerse themselves in the heart of the Balkans.`,
     ],
     titleMid: "Why to visit",
     contentTwo: [
-      `Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi
-    nostrum, dolore laboriosam unde, nihil fugiat vel cupiditate
-    aperiam beatae assumenda sunt illo. Doloremque unde, deserunt
-    totam quibusdam mollitia nam et. Lorem ipsum dolor sit amet
-    consectetur adipisicing elit. Quasi nostrum, dolore laboriosam
-    unde, nihil fugiat vel cupiditate aperiam beatae assumenda sunt
-    illo. Doloremque unde, deserunt totam quibusdam mollitia nam et.`,
-      `Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi
-    nostrum, dolore laboriosam unde, nihil fugiat vel cupiditate
-    aperiam beatae assumenda sunt illo. Doloremque unde, deserunt
-    totam quibusdam mollitia nam et`,
+      `Mostar is worth visiting for its captivating blend of history, culture, and natural beauty. The city's iconic Stari Most (Old Bridge) is a testament to its rich heritage and serves as a symbol of unity between its diverse communities. Visitors can marvel at the bridge's stunning architecture, witness the tradition of bridge jumping, and explore the charming streets of Mostar's old town, where Ottoman-era buildings and bustling bazaars offer a glimpse into the city's past.`,
+      `Moreover, Mostar's cultural vibrancy and warm hospitality make it a truly unforgettable destination. From sampling traditional Bosnian cuisine at local restaurants to attending cultural events like the Mostar Summer Festival, there's always something exciting to experience. Whether you're captivated by history, drawn to stunning architecture, or simply seeking an authentic Balkan experience, Mostar promises to leave a lasting impression on every visitor.`,
     ],
   },
   {
@@ -204,33 +109,14 @@ const articles = [
     imgHeroTwo: "../assets/wachau-hero2.webp",
     imgHeroTwoAlt: "Another bridge and city panorama",
     content: [
-      `The Wachau is an Austrian valley with a picturesque landscape formed by the Danube river. It is one of the most prominent tourist destinations of Lower Austria, located midway between the towns of Melk and Krems that also attracts "connoisseurs and epicureans" for its high-quality wines. It is 36 kilometres (22 mi) in length and was already settled in prehistoric times. A well-known place and tourist attraction is Dürnstein, where King Richard I of England was held captive by Leopold V, Duke of Austria. The architectural elegance of its ancient monasteries (Melk Abbey and Göttweig Abbey), castles and ruins combined with the urban architecture of its towns and villages, and the cultivation of vines as an important agricultural produce are the dominant features of the valley. The Wachau was inscribed as "Wachau Cultural Landscape" in the UNESCO List of World Heritage Sites in recognition of its architectural and agricultural history, in December 2000.`,
-      `Donec vel mauris lectus. Etiam nec lectus urna. Sed sodales ultrices dapibus. 
-              Nam blandit tristique risus, eget accumsan nisl interdum eu. Aenean ac accumsan 
-              nisi. Nunc vel pulvinar diam. Nam eleifend egestas viverra. Donec finibus lectus 
-              sed lorem ultricies, eget ornare leo luctus. Morbi vehicula, nulla eu tempor 
-              interdum, nibh elit congue tellus, ac vulputate urna lorem nec nisi. Morbi id 
-              consequat quam. Vivamus accumsan dui in facilisis aliquet.`,
-      `Etiam nec lectus urna. Sed sodales ultrices dapibus. 
-              Nam blandit tristique risus, eget accumsan nisl interdum eu. Aenean ac accumsan 
-              nisi. Nunc vel pulvinar diam. Nam eleifend egestas viverra. Donec finibus lectus 
-              sed lorem ultricies, eget ornare leo luctus. Morbi vehicula, nulla eu tempor 
-              interdum, nibh elit congue tellus, ac vulputate urna lorem nec nisi. Morbi id 
-              consequat quam. Vivamus accumsan dui in facilisis aliquet.`,
+      `Wachau Valley, nestled along the picturesque Danube River in Austria, is a region of stunning natural beauty, rich cultural heritage, and world-renowned wine production. Its rolling hills, terraced vineyards, and charming villages create a postcard-perfect landscape that has captivated visitors for centuries. The region's mild climate and fertile soils make it an ideal environment for winemaking, with vineyards producing some of Austria's finest white wines, including Grüner Veltliner and Riesling.`,
+      `In addition to its wine culture, Wachau Valley is dotted with historic landmarks and cultural attractions that showcase its rich history. Visitors can explore medieval castles perched atop rocky cliffs, such as the iconic Schloss Dürnstein, where Richard the Lionheart was once imprisoned. The charming towns of Krems and Melk offer architectural gems like the Melk Abbey, a magnificent Baroque monastery overlooking the river. Whether cruising along the Danube, cycling through vineyard-covered hillsides, or savoring local wines and delicacies at traditional Heurigen taverns, Wachau Valley offers a wealth of experiences for travelers seeking to immerse themselves in Austrian culture and countryside.`,
+      `Moreover, Wachau Valley is designated as a UNESCO World Heritage Site, recognized for its outstanding cultural landscape and historical significance. Its picturesque villages, terraced vineyards, and architectural landmarks are testament to centuries of human interaction with the landscape, creating a harmonious blend of natural and cultural elements. Whether exploring the charming cobblestone streets of Dürnstein, admiring the panoramic views from the ruins of Aggstein Castle, or cruising along the Danube aboard a traditional riverboat, visitors to Wachau Valley are sure to be enchanted by its timeless beauty and rich heritage.`,
     ],
     titleMid: "Why to visit",
     contentTwo: [
-      `Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi
-    nostrum, dolore laboriosam unde, nihil fugiat vel cupiditate
-    aperiam beatae assumenda sunt illo. Doloremque unde, deserunt
-    totam quibusdam mollitia nam et. Lorem ipsum dolor sit amet
-    consectetur adipisicing elit. Quasi nostrum, dolore laboriosam
-    unde, nihil fugiat vel cupiditate aperiam beatae assumenda sunt
-    illo. Doloremque unde, deserunt totam quibusdam mollitia nam et.`,
-      `Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi
-    nostrum, dolore laboriosam unde, nihil fugiat vel cupiditate
-    aperiam beatae assumenda sunt illo. Doloremque unde, deserunt
-    totam quibusdam mollitia nam et`,
+      `Wachau Valley, nestled along the Danube River in Austria, is a destination worth visiting for its breathtaking scenery, rich cultural heritage, and renowned wine production. The region's picturesque landscapes, with terraced vineyards, medieval castles, and charming villages, offer a postcard-perfect setting that beckons travelers seeking to immerse themselves in Austria's countryside charm. Visitors can embark on scenic cruises along the Danube, cycle through vineyard-covered hillsides, or explore historic towns like Krems and Melk, where architectural gems like Melk Abbey await.`,
+      `Moreover, Wachau Valley is celebrated for its exceptional wine culture, producing some of Austria's finest white wines. Wine enthusiasts can indulge in tastings at local wineries, known as Heurigen, where they can sample Grüner Veltliner and Riesling varieties while enjoying panoramic views of the vineyards. With its blend of natural beauty, cultural heritage, and culinary delights, Wachau Valley promises a memorable and enriching experience for travelers seeking to discover the heart and soul of Austria's wine country.`,
     ],
   },
   {
@@ -243,33 +129,14 @@ const articles = [
     imgHeroTwo: "../assets/rovinj-hero2.webp",
     imgHeroTwoAlt: "Another bridge and city panorama",
     content: [
-      `Rovinj is a city in Croatia situated on the north Adriatic Sea with a population of 14,294 (2011). Located on the western coast of the Istrian peninsula, it is a popular tourist resort and an active fishing port. Istriot, a Romance language once widely spoken in this part of Istria, is still spoken by some of the residents. The town is officially bilingual, Croatian and Italian, hence both town names are official and equal.`,
-      `Donec vel mauris lectus. Etiam nec lectus urna. Sed sodales ultrices dapibus. 
-                Nam blandit tristique risus, eget accumsan nisl interdum eu. Aenean ac accumsan 
-                nisi. Nunc vel pulvinar diam. Nam eleifend egestas viverra. Donec finibus lectus 
-                sed lorem ultricies, eget ornare leo luctus. Morbi vehicula, nulla eu tempor 
-                interdum, nibh elit congue tellus, ac vulputate urna lorem nec nisi. Morbi id 
-                consequat quam. Vivamus accumsan dui in facilisis aliquet.`,
-      `Etiam nec lectus urna. Sed sodales ultrices dapibus. 
-                Nam blandit tristique risus, eget accumsan nisl interdum eu. Aenean ac accumsan 
-                nisi. Nunc vel pulvinar diam. Nam eleifend egestas viverra. Donec finibus lectus 
-                sed lorem ultricies, eget ornare leo luctus. Morbi vehicula, nulla eu tempor 
-                interdum, nibh elit congue tellus, ac vulputate urna lorem nec nisi. Morbi id 
-                consequat quam. Vivamus accumsan dui in facilisis aliquet.`,
+      `Rovinj, situated on the western coast of the Istrian Peninsula in Croatia, is a picturesque seaside town renowned for its romantic atmosphere, charming old town, and stunning natural beauty. The town's iconic Old Town, perched atop a hill overlooking the shimmering Adriatic Sea, is a labyrinth of narrow cobblestone streets, colorful facades, and historic landmarks. Visitors can wander through the winding alleys, discovering hidden squares, quaint cafes, and artisan workshops, all while soaking in the town's timeless Mediterranean ambiance.`,
+      `Rovinj's coastline is dotted with secluded coves, rocky beaches, and lush pine forests, making it a paradise for nature lovers and outdoor enthusiasts. The nearby Golden Cape (Zlatni Rt) Park Forest offers miles of scenic walking and cycling trails, as well as opportunities for swimming and sunbathing along pristine beaches. For those seeking adventure, Rovinj's crystal-clear waters are perfect for snorkeling, diving, and kayaking, while boat excursions provide a chance to explore the surrounding islands and hidden coastal gems.`,
+      `Moreover, Rovinj's rich cultural heritage and vibrant arts scene add to its allure as a must-visit destination in Croatia. The town is home to numerous art galleries, museums, and cultural events, showcasing the work of local and international artists. Visitors can immerse themselves in Rovinj's creative spirit by attending music festivals, art exhibitions, and theater performances held throughout the year. With its blend of natural beauty, historic charm, and cultural vibrancy, Rovinj offers a truly unforgettable experience for travelers seeking to explore the best of Croatia's Adriatic coast.`,
     ],
     titleMid: "Why to visit",
     contentTwo: [
-      `Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi
-    nostrum, dolore laboriosam unde, nihil fugiat vel cupiditate
-    aperiam beatae assumenda sunt illo. Doloremque unde, deserunt
-    totam quibusdam mollitia nam et. Lorem ipsum dolor sit amet
-    consectetur adipisicing elit. Quasi nostrum, dolore laboriosam
-    unde, nihil fugiat vel cupiditate aperiam beatae assumenda sunt
-    illo. Doloremque unde, deserunt totam quibusdam mollitia nam et.`,
-      `Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi
-    nostrum, dolore laboriosam unde, nihil fugiat vel cupiditate
-    aperiam beatae assumenda sunt illo. Doloremque unde, deserunt
-    totam quibusdam mollitia nam et`,
+      `Rovinj is worth visiting for its enchanting blend of natural beauty, historic charm, and vibrant atmosphere. Perched on the Istrian Peninsula along Croatia's Adriatic coast, this picturesque seaside town boasts stunning vistas of the sparkling sea, dotted with picturesque islands and rugged coastline. Visitors can explore the town's historic Old Town, a maze of narrow cobblestone streets lined with colorful buildings, charming cafes, and artisan shops, offering a glimpse into its rich cultural heritage.`,
+      `Moreover, Rovinj's idyllic setting provides ample opportunities for outdoor activities and relaxation. From swimming and sunbathing on pristine beaches to hiking through lush forests and exploring hidden coves, there's something for everyone to enjoy. Additionally, Rovinj's vibrant arts scene and lively festivals add to its allure, with cultural events celebrating music, art, and local traditions throughout the year. Whether you're seeking romance, adventure, or cultural immersion, Rovinj promises an unforgettable experience that captures the essence of Croatia's Adriatic coast.`,
     ],
   },
   {
@@ -282,33 +149,14 @@ const articles = [
     imgHeroTwo: "../assets/kupres-hero2.webp",
     imgHeroTwoAlt: "Another bridge and city panorama",
     content: [
-      `Kupres is a town and municipality located in Canton 10 of the Federation of Bosnia and Herzegovina, an entity of Bosnia and Herzegovina. As of 2013, it has a population of 5,057 inhabitants, while the town of Kupres has a population of 2,883 inhabitants. Kupres is 43 km (27 mi) distanced from Livno, 127 km (79 mi) from Mostar, 143 km from Sarajevo, 123 km from Banja Luka and 127 km (79 mi) from Split. Kupres is located 1,120 to 1,150 m (3,675 to 3,773 ft) above sea level and averages 55 days a year of snowfall due to its advantageous location in the Dinaric Alps. The town has good road (state road M-16) and bus access heading towards Tomislavgrad, Livno and Mostar, and is connected to the nearby town of Bugojno in Bosnia Proper via a tunnel called "Kupreška vrata" (en. "Gates of Kupres"). It also has daily bus line towards Croatian cities of Zagreb, Split and Osijek.`,
-      `Donec vel mauris lectus. Etiam nec lectus urna. Sed sodales ultrices dapibus. 
-                Nam blandit tristique risus, eget accumsan nisl interdum eu. Aenean ac accumsan 
-                nisi. Nunc vel pulvinar diam. Nam eleifend egestas viverra. Donec finibus lectus 
-                sed lorem ultricies, eget ornare leo luctus. Morbi vehicula, nulla eu tempor 
-                interdum, nibh elit congue tellus, ac vulputate urna lorem nec nisi. Morbi id 
-                consequat quam. Vivamus accumsan dui in facilisis aliquet.`,
-      `Etiam nec lectus urna. Sed sodales ultrices dapibus. 
-                Nam blandit tristique risus, eget accumsan nisl interdum eu. Aenean ac accumsan 
-                nisi. Nunc vel pulvinar diam. Nam eleifend egestas viverra. Donec finibus lectus 
-                sed lorem ultricies, eget ornare leo luctus. Morbi vehicula, nulla eu tempor 
-                interdum, nibh elit congue tellus, ac vulputate urna lorem nec nisi. Morbi id 
-                consequat quam. Vivamus accumsan dui in facilisis aliquet.`,
+      `Kupres, located in Bosnia and Herzegovina, is a charming town nestled amidst the scenic beauty of the Dinaric Alps. Known for its pristine natural landscapes, Kupres offers visitors a tranquil retreat surrounded by rolling hills, lush forests, and crystal-clear rivers. In the winter months, the town transforms into a popular destination for skiing and snowboarding enthusiasts, with its well-groomed slopes and modern facilities attracting visitors from near and far.`,
+      `Beyond its outdoor recreational opportunities, Kupres boasts a rich cultural heritage and a warm hospitality that welcomes travelers with open arms. Visitors can explore the town's historic landmarks, such as the ancient Church of St. Nicholas, which dates back to the 14th century, or the remnants of medieval fortifications that dot the surrounding countryside. Additionally, Kupres is renowned for its traditional Bosnian cuisine, with local restaurants serving hearty dishes like cevapi (grilled meat) and burek (savory pastry), offering a taste of authentic Balkan flavors.`,
+      `Moreover, Kupres serves as a gateway to discovering the diverse attractions of the surrounding region. Outdoor enthusiasts can embark on hiking and mountain biking adventures through the scenic countryside, discovering hidden waterfalls, pristine lakes, and panoramic viewpoints along the way. For those seeking cultural immersion, nearby towns like Livno and Tomislavgrad offer fascinating insights into Bosnia and Herzegovina's history and heritage, with their historic landmarks, museums, and vibrant local communities. Whether you're drawn to Kupres for its outdoor adventures, cultural experiences, or simply to escape the hustle and bustle of city life, the town offers a peaceful and picturesque retreat in the heart of the Balkans.`,
     ],
     titleMid: "Why to visit",
     contentTwo: [
-      `Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi
-    nostrum, dolore laboriosam unde, nihil fugiat vel cupiditate
-    aperiam beatae assumenda sunt illo. Doloremque unde, deserunt
-    totam quibusdam mollitia nam et. Lorem ipsum dolor sit amet
-    consectetur adipisicing elit. Quasi nostrum, dolore laboriosam
-    unde, nihil fugiat vel cupiditate aperiam beatae assumenda sunt
-    illo. Doloremque unde, deserunt totam quibusdam mollitia nam et.`,
-      `Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi
-    nostrum, dolore laboriosam unde, nihil fugiat vel cupiditate
-    aperiam beatae assumenda sunt illo. Doloremque unde, deserunt
-    totam quibusdam mollitia nam et`,
+      `Kupres is worth visiting for its pristine natural beauty and abundance of outdoor recreational activities. Nestled in the picturesque Dinaric Alps of Bosnia and Herzegovina, this charming town offers a serene escape surrounded by rolling hills, dense forests, and crystal-clear rivers. In the winter months, Kupres transforms into a popular destination for skiing and snowboarding, with its well-maintained slopes and modern facilities attracting enthusiasts of all levels.`,
+      `Moreover, Kupres boasts a rich cultural heritage and warm hospitality that welcomes visitors year-round. History buffs can explore the town's ancient landmarks, such as the historic Church of St. Nicholas, while food enthusiasts can savor traditional Bosnian cuisine at local restaurants. Whether you're seeking outdoor adventure, cultural immersion, or simply a peaceful retreat in nature, Kupres promises a memorable experience that captures the essence of Bosnia and Herzegovina's scenic countryside.`,
     ],
   },
   {
@@ -321,33 +169,14 @@ const articles = [
     imgHeroTwo: "../assets/lim-hero2.webp",
     imgHeroTwoAlt: "Another bridge and city panorama",
     content: [
-      `The Lim bay (Croatian: Limski zaljev) and valley is a peculiar geographic feature found near Rovinj and Vrsar on the western coast of Istria, south of Poreč, Croatia. The name comes from the Latin limes for "limit", referring to the landform's position at the border of two Roman provinces: Dalmatia and Italia.`,
-      `Donec vel mauris lectus. Etiam nec lectus urna. Sed sodales ultrices dapibus. 
-                Nam blandit tristique risus, eget accumsan nisl interdum eu. Aenean ac accumsan 
-                nisi. Nunc vel pulvinar diam. Nam eleifend egestas viverra. Donec finibus lectus 
-                sed lorem ultricies, eget ornare leo luctus. Morbi vehicula, nulla eu tempor 
-                interdum, nibh elit congue tellus, ac vulputate urna lorem nec nisi. Morbi id 
-                consequat quam. Vivamus accumsan dui in facilisis aliquet.`,
-      `Etiam nec lectus urna. Sed sodales ultrices dapibus. 
-                Nam blandit tristique risus, eget accumsan nisl interdum eu. Aenean ac accumsan 
-                nisi. Nunc vel pulvinar diam. Nam eleifend egestas viverra. Donec finibus lectus 
-                sed lorem ultricies, eget ornare leo luctus. Morbi vehicula, nulla eu tempor 
-                interdum, nibh elit congue tellus, ac vulputate urna lorem nec nisi. Morbi id 
-                consequat quam. Vivamus accumsan dui in facilisis aliquet.`,
+      `Lim Bay, also known as Lim Fjord, is a breathtaking natural wonder located on the western coast of Istria, Croatia. Carved into the lush green landscape, this stunning inlet stretches for several kilometers inland, creating a dramatic gorge flanked by towering cliffs and dense forests. The bay's tranquil waters, fed by freshwater springs and the Adriatic Sea, provide a serene habitat for diverse marine life, making it a popular spot for fishing and aquaculture.`,
+      `In addition to its scenic beauty, Lim Bay is renowned for its culinary delights, particularly its fresh seafood offerings. Visitors can dine at rustic seafood restaurants lining the bay, where they can indulge in freshly caught fish, oysters, and mussels, paired with local wines and olive oils. Additionally, the bay's surrounding hills are dotted with vineyards and orchards, producing renowned Istrian wines and olive oils, adding to the region's gastronomic appeal.`,
+      `Moreover, Lim Bay offers ample opportunities for outdoor adventure and exploration. Visitors can embark on boat tours of the bay, admiring the stunning cliffs and hidden caves along the way, or hike along scenic trails that wind through the surrounding forests. The bay's tranquil waters also make it an ideal spot for kayaking and paddleboarding, allowing visitors to experience its beauty up close. Whether you're seeking culinary delights, natural beauty, or outdoor adventure, Lim Bay promises an unforgettable experience that captures the essence of Istria's coastal charm.`,
     ],
     titleMid: "Why to visit",
     contentTwo: [
-      `Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi
-    nostrum, dolore laboriosam unde, nihil fugiat vel cupiditate
-    aperiam beatae assumenda sunt illo. Doloremque unde, deserunt
-    totam quibusdam mollitia nam et. Lorem ipsum dolor sit amet
-    consectetur adipisicing elit. Quasi nostrum, dolore laboriosam
-    unde, nihil fugiat vel cupiditate aperiam beatae assumenda sunt
-    illo. Doloremque unde, deserunt totam quibusdam mollitia nam et.`,
-      `Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi
-    nostrum, dolore laboriosam unde, nihil fugiat vel cupiditate
-    aperiam beatae assumenda sunt illo. Doloremque unde, deserunt
-    totam quibusdam mollitia nam et`,
+      `Lim Bay is worth visiting for its stunning natural beauty and culinary delights. Carved into the lush landscape of Istria, Croatia, this picturesque inlet boasts towering cliffs, tranquil waters, and dense forests, creating a breathtaking backdrop for outdoor exploration. Visitors can enjoy scenic boat tours of the bay, discovering hidden caves and admiring the dramatic cliffs along the way, or hike along trails that offer panoramic views of the surrounding countryside. `,
+      `Moreover, Lim Bay is renowned for its fresh seafood, with rustic seafood restaurants lining the bay offering delicious dishes like freshly caught fish, oysters, and mussels, paired with local wines and olive oils. Whether you're seeking natural beauty, culinary indulgence, or outdoor adventure, Lim Bay promises an unforgettable experience that captures the essence of Istria's coastal charm.`,
     ],
   },
   {
@@ -360,33 +189,14 @@ const articles = [
     imgHeroTwo: "../assets/laxenburg-hero2.webp",
     imgHeroTwoAlt: "Another bridge and city panorama",
     content: [
-      `Laxenburg is a market town in the district of Mödling, in the Austrian state of Lower Austria. Located about 20 km (12 mi) south of the Austrian capital Vienna, it is chiefly known for the Laxenburg castles, which, beside Schönbrunn, served as the most important summer retreat of the Habsburg monarchs.`,
-      `Donec vel mauris lectus. Etiam nec lectus urna. Sed sodales ultrices dapibus. 
-                Nam blandit tristique risus, eget accumsan nisl interdum eu. Aenean ac accumsan 
-                nisi. Nunc vel pulvinar diam. Nam eleifend egestas viverra. Donec finibus lectus 
-                sed lorem ultricies, eget ornare leo luctus. Morbi vehicula, nulla eu tempor 
-                interdum, nibh elit congue tellus, ac vulputate urna lorem nec nisi. Morbi id 
-                consequat quam. Vivamus accumsan dui in facilisis aliquet.`,
-      `Etiam nec lectus urna. Sed sodales ultrices dapibus. 
-                Nam blandit tristique risus, eget accumsan nisl interdum eu. Aenean ac accumsan 
-                nisi. Nunc vel pulvinar diam. Nam eleifend egestas viverra. Donec finibus lectus 
-                sed lorem ultricies, eget ornare leo luctus. Morbi vehicula, nulla eu tempor 
-                interdum, nibh elit congue tellus, ac vulputate urna lorem nec nisi. Morbi id 
-                consequat quam. Vivamus accumsan dui in facilisis aliquet.`,
+      `Laxenburg, located just south of Vienna, Austria, is a charming town known for its picturesque landscapes, historic landmarks, and tranquil atmosphere. At the heart of Laxenburg lies the magnificent Laxenburg Castle, a former imperial residence surrounded by lush gardens and scenic lakes. Visitors can explore the castle grounds, stroll along tree-lined paths, and admire the ornate architecture, offering a glimpse into Austria's royal past.`,
+      `In addition to its regal heritage, Laxenburg is celebrated for its natural beauty and outdoor recreational opportunities. The town is home to expansive parks and gardens, including the renowned Franzensburg Park, where visitors can enjoy leisurely walks, picnics, and boat rides on the tranquil lakes. Cyclists and hikers can explore scenic trails that wind through the surrounding countryside, offering breathtaking views of the Alps and the Danube River.`,
+      `Moreover, Laxenburg offers a wealth of cultural experiences and events throughout the year. The town hosts music festivals, art exhibitions, and historical reenactments, showcasing its vibrant arts scene and rich cultural heritage. Visitors can also indulge in culinary delights at local cafes and restaurants, savoring traditional Austrian cuisine and regional specialties. With its blend of history, natural beauty, and cultural charm, Laxenburg promises a memorable and enriching experience for travelers seeking to discover the best of Austria's countryside.`,
     ],
     titleMid: "Why to visit",
     contentTwo: [
-      `Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi
-    nostrum, dolore laboriosam unde, nihil fugiat vel cupiditate
-    aperiam beatae assumenda sunt illo. Doloremque unde, deserunt
-    totam quibusdam mollitia nam et. Lorem ipsum dolor sit amet
-    consectetur adipisicing elit. Quasi nostrum, dolore laboriosam
-    unde, nihil fugiat vel cupiditate aperiam beatae assumenda sunt
-    illo. Doloremque unde, deserunt totam quibusdam mollitia nam et.`,
-      `Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi
-    nostrum, dolore laboriosam unde, nihil fugiat vel cupiditate
-    aperiam beatae assumenda sunt illo. Doloremque unde, deserunt
-    totam quibusdam mollitia nam et`,
+      `Laxenburg is worth visiting for its serene atmosphere, historic landmarks, and scenic beauty. Nestled just south of Vienna, this charming town offers visitors a peaceful retreat amidst lush gardens, tranquil lakes, and majestic castles. The centerpiece of Laxenburg is the magnificent Laxenburg Castle, a former imperial residence surrounded by sprawling gardens that provide a perfect backdrop for leisurely strolls and picnics. Visitors can immerse themselves in Austria's royal history while exploring the castle grounds and admiring its elegant architecture.`,
+      `Moreover, Laxenburg's natural surroundings offer ample opportunities for outdoor recreation and relaxation. The town's expansive parks and gardens invite visitors to unwind amidst verdant landscapes, while scenic trails beckon cyclists and hikers to explore the picturesque countryside. Whether you're interested in history, nature, or simply seeking a peaceful escape from city life, Laxenburg promises a delightful and rejuvenating experience in the heart of Austria.`,
     ],
   },
   {
@@ -399,33 +209,14 @@ const articles = [
     imgHeroTwo: "../assets/motovun-hero2.webp",
     imgHeroTwoAlt: "Another bridge and city panorama",
     content: [
-      `Motovun is a village and a municipality in central Istria, Croatia. In ancient times, both Celts and Illyrians built their fortresses at the location of present-day Motovun. The name of the village is also of Celtic origin, derived from Montona, meaning "a town in the hills". The Parenzana, a narrow-gauge railroad that ran from Trieste to Poreč between 1902 and 1935, passed below the town.`,
-      `Donec vel mauris lectus. Etiam nec lectus urna. Sed sodales ultrices dapibus. 
-                Nam blandit tristique risus, eget accumsan nisl interdum eu. Aenean ac accumsan 
-                nisi. Nunc vel pulvinar diam. Nam eleifend egestas viverra. Donec finibus lectus 
-                sed lorem ultricies, eget ornare leo luctus. Morbi vehicula, nulla eu tempor 
-                interdum, nibh elit congue tellus, ac vulputate urna lorem nec nisi. Morbi id 
-                consequat quam. Vivamus accumsan dui in facilisis aliquet.`,
-      `Etiam nec lectus urna. Sed sodales ultrices dapibus. 
-                Nam blandit tristique risus, eget accumsan nisl interdum eu. Aenean ac accumsan 
-                nisi. Nunc vel pulvinar diam. Nam eleifend egestas viverra. Donec finibus lectus 
-                sed lorem ultricies, eget ornare leo luctus. Morbi vehicula, nulla eu tempor 
-                interdum, nibh elit congue tellus, ac vulputate urna lorem nec nisi. Morbi id 
-                consequat quam. Vivamus accumsan dui in facilisis aliquet.`,
+      `Motovun, perched atop a picturesque hill in the heart of Istria, Croatia, is a charming medieval town renowned for its stunning panoramic views, rich history, and cultural heritage. Encircled by ancient walls and accessed via a stone gate, Motovun's cobblestone streets wind through the historic town center, lined with centuries-old buildings, charming cafes, and artisan shops. Visitors can explore the town's well-preserved medieval architecture, including the imposing Motovun Fortress, which offers breathtaking vistas of the surrounding countryside.`,
+      `In addition to its architectural beauty, Motovun is celebrated for its thriving arts scene and gastronomic delights. The town hosts annual film festivals and cultural events that attract artists and filmmakers from around the world, adding to its vibrant ambiance. Moreover, Motovun is renowned for its truffle-rich cuisine, with local restaurants serving up delicious dishes featuring the prized fungus, such as truffle-infused pasta and risotto. Visitors can also sample Istrian wines at nearby vineyards, completing their culinary journey through this enchanting hilltop town.`,
+      `Moreover, Motovun's idyllic setting amidst rolling hills and verdant vineyards makes it a popular destination for outdoor enthusiasts. Hiking and cycling trails crisscross the surrounding countryside, offering opportunities to explore the region's natural beauty and discover hidden gems along the way. Whether you're drawn to its medieval charm, cultural vibrancy, or culinary delights, Motovun promises an unforgettable experience that captures the essence of Istria's timeless allure.`,
     ],
     titleMid: "Why to visit",
     contentTwo: [
-      `Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi
-    nostrum, dolore laboriosam unde, nihil fugiat vel cupiditate
-    aperiam beatae assumenda sunt illo. Doloremque unde, deserunt
-    totam quibusdam mollitia nam et. Lorem ipsum dolor sit amet
-    consectetur adipisicing elit. Quasi nostrum, dolore laboriosam
-    unde, nihil fugiat vel cupiditate aperiam beatae assumenda sunt
-    illo. Doloremque unde, deserunt totam quibusdam mollitia nam et.`,
-      `Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi
-    nostrum, dolore laboriosam unde, nihil fugiat vel cupiditate
-    aperiam beatae assumenda sunt illo. Doloremque unde, deserunt
-    totam quibusdam mollitia nam et`,
+      `Motovun is worth visiting for its enchanting medieval charm and stunning hilltop setting in the heart of Istria, Croatia. Perched atop a picturesque hill, the town boasts well-preserved medieval architecture, cobblestone streets, and ancient walls that exude a timeless ambiance. Visitors can explore the historic town center, wander through narrow alleys, and admire centuries-old buildings, including the impressive Motovun Fortress, which offers panoramic views of the surrounding countryside.`,
+      `Moreover, Motovun's cultural richness and gastronomic delights make it a must-visit destination for travelers seeking an authentic Istrian experience. The town hosts annual film festivals and cultural events that attract artists and filmmakers from around the world, adding to its vibrant atmosphere. Additionally, Motovun is renowned for its truffle-rich cuisine, with local restaurants serving up delectable dishes featuring the prized fungus. Whether you're captivated by its medieval heritage, intrigued by its cultural offerings, or simply craving a taste of Istria's culinary delights, Motovun promises a memorable and immersive experience.`,
     ],
   },
   {
@@ -438,33 +229,14 @@ const articles = [
     imgHeroTwo: "../assets/duernstein-hero2.webp",
     imgHeroTwoAlt: "Another bridge and city panorama",
     content: [
-      `Dürnstein is a small town on the Danube river in the Krems-Land district, in the Austrian state of Lower Austria. It is one of the most-visited tourist destinations in the Wachau region and also a well-known wine growing area. The municipality consists of the Katastralgemeinden of Dürnstein, Oberloiben, and Unterloiben.`,
-      `Donec vel mauris lectus. Etiam nec lectus urna. Sed sodales ultrices dapibus. 
-                Nam blandit tristique risus, eget accumsan nisl interdum eu. Aenean ac accumsan 
-                nisi. Nunc vel pulvinar diam. Nam eleifend egestas viverra. Donec finibus lectus 
-                sed lorem ultricies, eget ornare leo luctus. Morbi vehicula, nulla eu tempor 
-                interdum, nibh elit congue tellus, ac vulputate urna lorem nec nisi. Morbi id 
-                consequat quam. Vivamus accumsan dui in facilisis aliquet.`,
-      `Etiam nec lectus urna. Sed sodales ultrices dapibus. 
-                Nam blandit tristique risus, eget accumsan nisl interdum eu. Aenean ac accumsan 
-                nisi. Nunc vel pulvinar diam. Nam eleifend egestas viverra. Donec finibus lectus 
-                sed lorem ultricies, eget ornare leo luctus. Morbi vehicula, nulla eu tempor 
-                interdum, nibh elit congue tellus, ac vulputate urna lorem nec nisi. Morbi id 
-                consequat quam. Vivamus accumsan dui in facilisis aliquet.`,
+      `Dürnstein, nestled along the banks of the Danube River in the picturesque Wachau Valley of Austria, is a charming medieval town renowned for its romantic ambiance, historic charm, and stunning vineyard-clad landscapes. The town's iconic blue-and-white baroque church tower stands proudly against the backdrop of rolling hills and terraced vineyards, creating a postcard-perfect scene that has captivated visitors for centuries. Dürnstein's well-preserved medieval architecture, cobbled streets, and quaint alleys offer a glimpse into its rich history and cultural heritage.`,
+      `One of Dürnstein's most famous landmarks is the imposing ruins of Dürnstein Castle, perched high above the town on a rocky outcrop. Steeped in legend and history, the castle is best known for its association with Richard the Lionheart, who was imprisoned here in the 12th century during the Third Crusade. Visitors can hike up to the castle ruins, enjoying panoramic views of the Danube Valley and the surrounding vineyards along the way. Additionally, Dürnstein is renowned for its wine production, with numerous wineries offering tastings of the region's renowned Grüner Veltliner and Riesling wines.`,
+      `Moreover, Dürnstein offers a wealth of experiences for travelers seeking relaxation, culinary delights, and outdoor adventures. The town's riverside promenade is lined with charming cafes, wine taverns, and shops selling local handicrafts and specialties. Visitors can indulge in leisurely boat cruises along the Danube, cycle through scenic vineyards and orchards, or embark on scenic hikes through the surrounding countryside. With its blend of natural beauty, historic charm, and gastronomic delights, Dürnstein promises an unforgettable experience in the heart of Austria's Wachau Valley.`,
     ],
     titleMid: "Why to visit",
     contentTwo: [
-      `Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi
-    nostrum, dolore laboriosam unde, nihil fugiat vel cupiditate
-    aperiam beatae assumenda sunt illo. Doloremque unde, deserunt
-    totam quibusdam mollitia nam et. Lorem ipsum dolor sit amet
-    consectetur adipisicing elit. Quasi nostrum, dolore laboriosam
-    unde, nihil fugiat vel cupiditate aperiam beatae assumenda sunt
-    illo. Doloremque unde, deserunt totam quibusdam mollitia nam et.`,
-      `Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi
-    nostrum, dolore laboriosam unde, nihil fugiat vel cupiditate
-    aperiam beatae assumenda sunt illo. Doloremque unde, deserunt
-    totam quibusdam mollitia nam et`,
+      `Dürnstein is worth visiting for its enchanting medieval charm, breathtaking scenery, and rich cultural heritage. Nestled along the banks of the Danube River in Austria's picturesque Wachau Valley, the town captivates visitors with its well-preserved medieval architecture, cobbled streets, and romantic alleys. One of its most iconic landmarks is the ruins of Dürnstein Castle, perched high above the town, offering panoramic views of the surrounding vineyards and the meandering Danube below.`,
+      `Moreover, Dürnstein's association with historical figures like Richard the Lionheart adds to its allure. Legend has it that the English king was imprisoned in the castle during the Third Crusade, leaving behind a legacy that continues to intrigue visitors today. Additionally, Dürnstein is renowned for its wine production, with local wineries offering tastings of Grüner Veltliner and Riesling wines, allowing visitors to savor the flavors of the region while soaking in its stunning landscapes. Whether you're drawn to its medieval history, scenic beauty, or culinary delights, Dürnstein promises a memorable and immersive experience in the heart of Austria's Danube Valley.`,
     ],
   },
 ];

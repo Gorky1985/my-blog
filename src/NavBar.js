@@ -1,12 +1,14 @@
 import logo from "./assets/travel-logo2.webp";
-import inLogo from "./assets/linkedInLogo.png";
-import youTubeLogo from "./assets/youTube2.png";
-import twitLogo from "./assets/twitter.png";
-import faceLogo from "./assets/face.png";
-import instaLogo from "./assets/insta.png";
 import { Link, useNavigate } from "react-router-dom";
 import useUser from "./hooks/useUser";
 import { getAuth, signOut } from "firebase/auth";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import {
+  faGithub,
+  faFacebookF,
+  faFlickr,
+  faLinkedin,
+} from "@fortawesome/free-brands-svg-icons";
 
 const NavBar = () => {
   const { user } = useUser();
@@ -63,29 +65,48 @@ const NavBar = () => {
           <nav id="social-menu" className="social-menu menu" role="navigation">
             <ul>
               <li>
-                <Link to="https://www.twitter.com">
-                  <img className="icons" src={twitLogo} alt="Twitter Logo" />
-                </Link>
+                <a
+                  href="https://github.com/Gorky1985"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <span className="social-icons">
+                    <FontAwesomeIcon icon={faGithub} />
+                  </span>
+                </a>
               </li>
               <li>
-                <Link to="https://www.facebook.com">
-                  <img className="icons" src={faceLogo} alt="Facebook Logo" />
-                </Link>
+                <a
+                  href="https://www.facebook.com/goran.cosic.71"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <span className="social-icons">
+                    <FontAwesomeIcon icon={faFacebookF} />
+                  </span>
+                </a>
               </li>
               <li>
-                <Link to="https://www.instagram.com">
-                  <img className="icons" src={instaLogo} alt="Instagram Logo" />
-                </Link>
+                <a
+                  href="https://www.flickr.com/photos/94000386@N05/"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <span className="social-icons">
+                    <FontAwesomeIcon icon={faFlickr} />
+                  </span>
+                </a>
               </li>
               <li>
-                <Link to="https://www.youtube.com">
-                  <img className="icons" src={youTubeLogo} alt="YouTube Logo" />
-                </Link>
-              </li>
-              <li>
-                <Link to="https://www.linkedin.com">
-                  <img className="icons" src={inLogo} alt="LinkedIn Logo" />
-                </Link>
+                <a
+                  href="https://www.linkedin.com/in/mag-goran-cosic/"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <span className="social-icons">
+                    <FontAwesomeIcon icon={faLinkedin} />
+                  </span>
+                </a>
               </li>
             </ul>
           </nav>

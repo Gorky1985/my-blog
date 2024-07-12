@@ -22,18 +22,38 @@ const AboutPage = () => {
           </div>
           <p>
             <span className="hey">Hey, I'm Goran Cosic...</span>
+            <br /> <br />
+            ...as a dedicated father of two wonderful children and a loving
+            husband, I've found that some of the most memorable moments in life
+            are those spent exploring the world with my family. From the
+            bustling streets of vibrant cities to the serene beauty of nature's
+            wonders, we embark on adventures together, creating cherished
+            memories that will last a lifetime. My passion for travel is not
+            only fueled by the desire to discover new cultures and landscapes
+            but also by the joy of witnessing the world through the eyes of my
+            loved ones. With my trusty camera in hand, I capture every precious
+            moment, freezing time to share our journey with others. <br />
             <br />
-            ...lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti
-            dicta hic maxime quo blanditiis, iste repudiandae? Adipisci numquam,
-            placeat obcaecati quas aspernatur iure saepe voluptates nostrum!
-            Officiis tempore impedit nobis! Lorem ipsum dolor sit amet
-            consectetur adipisicing elit. Ipsa quos perspiciatis fugiat culpa
-            possimus natus minima, qui, illum aliquam delectus eos. Deleniti,
-            distinctio assumenda dolores eaque consequuntur facere saepe
-            quisquam? Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-            Fugit ut neque modi numquam, corporis iusto nulla voluptate sequi
-            vel tempora doloribus alias exercitationem labore dolorum aliquam,
-            cumque libero, qui dignissimos.
+            When I'm not embarking on adventures with my family, you'll often
+            find me immersed in the world of web development. Fuelled by a
+            passion for technology and a desire to constantly learn and grow, I
+            dedicate my free time to studying the intricacies of web
+            development. From mastering the latest programming languages to
+            experimenting with innovative design concepts, I thrive on the
+            challenges that come with building and refining websites. Each
+            project is an opportunity to flex my creative muscles and further
+            expand my skills in this ever-evolving field. <br />
+            <br />
+            As a hobbyist web developer, I find immense satisfaction in creating
+            websites that blend functionality with aesthetic appeal. Whether
+            it's a personal blog to document our family travels or a platform to
+            showcase my photography portfolio, each website serves as a canvas
+            for me to express my creativity and share my passions with the
+            world. While some may view web development as a mere pastime, for
+            me, it's a journey of self-discovery and continuous improvement.
+            Through every line of code and every pixel perfected, I strive to
+            create digital experiences that resonate with others and leave a
+            lasting impression.
           </p>
         </div>
         <Link to="/articles" className="more">
@@ -46,7 +66,16 @@ const AboutPage = () => {
           <img src="./assets/divider.webp" alt="" />
         </div>
         <div className="footer">
-          <p>&copy; 2023 Goran Cosic Photography</p>
+          <p>
+            <a
+              className="footer-link social-icons"
+              href="https://gorky1985.github.io/my-portfolio/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Copyright &copy; 2024 Goran Cosic Photography
+            </a>
+          </p>
         </div>
       </footer>
     </div>

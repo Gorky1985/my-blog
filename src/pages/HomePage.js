@@ -6,23 +6,38 @@ const HomePage = () => {
     <div className="max-width">
       <section className="intro-box">
         <div>
-          <img src="./assets/hero1.webp" alt="sunset in vienna" />
+          <img
+            src="./assets/hero1.webp"
+            alt="sunset in Vienna"
+            height="auto"
+            srcSet={`
+    ./assets/hero1-xsmall.webp 480w,
+    ./assets/hero1-small.webp 960w,
+    ./assets/hero1-med.webp 1440w,
+    ./assets/hero1.webp 1920w
+  `}
+            sizes="
+    (max-width: 480px) 480px,
+    (max-width: 960px) 960px,
+    (max-width: 1440px) 1440px,
+    1920px
+  "
+            preload="auto"
+          />
         </div>
         <div className="divider">
           <img src="./assets/divider.webp" alt="" />
         </div>
         <div className="hello">
           <p>
-            Hi, I'm Goran. Lorem ipsum dolor sit amet consectetur adipisicing
-            elit. Magnam minima nihil libero ab, tenetur dolorem optio
-            voluptates sed. Suscipit ipsa reiciendis eum nesciunt nihil
-            consequatur esse quae explicabo cupiditate obcaecati?
+            Hi, I'm Goran. Welcome to my travel blog! Whether you're a seasoned
+            globetrotter or a novice explorer, I'm thrilled to have you here.
+            Join me on this journey as we embark on adventures around the world.
           </p>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta
-            nulla vero itaque quasi blanditiis at expedita quod, aut provident
-            omnis vel placeat commodi distinctio nostrum minima delectus
-            corrupti debitis reiciendis!
+            Let's explore new destinations, uncover hidden gems, and create
+            unforgettable memories together. Thanks for visiting, and let's have
+            some fun exploring the wonders of travel together!
             <Link className="link" to="/about">
               Read more
             </Link>
@@ -52,7 +67,10 @@ const HomePage = () => {
           <li className="card-item">
             <Link to="/articles/makarska">
               <figure className="card">
-                <img src="./assets/makarska.webp" alt="Makarska at night" />
+                <img
+                  src="./assets/makarska-thumb.webp"
+                  alt="Makarska at night"
+                />
                 <figcaption className="caption">
                   <h3 className="caption-title">Makarska</h3>
                   <p>Makarska - a true jewel on adriatic coast.</p>
@@ -63,7 +81,10 @@ const HomePage = () => {
           <li className="card-item">
             <Link to="/articles/venice">
               <figure className="card">
-                <img src="./assets/venice.webp" alt="Venice and gondola" />
+                <img
+                  src="./assets/venice-thumb.webp"
+                  alt="Venice and gondola"
+                />
                 <figcaption className="caption">
                   <h3 className="caption-title">Venice</h3>
                   <p>One magical place.</p>
@@ -75,7 +96,7 @@ const HomePage = () => {
             <Link to="/articles/seget-vranjica">
               <figure className="card">
                 <img
-                  src="./assets/seget-vranjica.webp"
+                  src="./assets/seget-vranjica-thumb.webp"
                   alt="Adria harbor with ships"
                 />
                 <figcaption className="caption">
@@ -96,7 +117,24 @@ const HomePage = () => {
           <img src="./assets/divider.webp" alt="" />
         </div>
         <div>
-          <img src="./assets/hero2.webp" alt="vienna from a hill" />
+          <img
+            src="./assets/hero2.webp"
+            alt="Vienna from a hill at night"
+            height="auto"
+            srcSet={`
+    ./assets/hero2-xsmall.webp 480w,
+    ./assets/hero2-small.webp 960w,
+    ./assets/hero2-med.webp 1440w,
+    ./assets/hero2.webp 1920w
+  `}
+            sizes="
+    (max-width: 480px) 480px,
+    (max-width: 960px) 960px,
+    (max-width: 1440px) 1440px,
+    1920px
+  "
+            loading="lazy"
+          />
         </div>
         <div className="goran">
           <img
@@ -107,10 +145,9 @@ const HomePage = () => {
         <div className="arrow_box">
           <h3>HEY, I'M GORAN....</h3>
           <p>
-            ...lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti
-            dicta hic maxime quo blanditiis, iste repudiandae? Adipisci numquam,
-            placeat obcaecati quas aspernatur iure saepe voluptates nostrum!
-            Officiis tempore impedit nobis!
+            ...welcome to my travel blog! I'm excited to have you join me for
+            some fun adventures. Thanks for visiting and let's explore the world
+            together!
           </p>
           <Link to="/about" className="more">
             <span>About me</span>

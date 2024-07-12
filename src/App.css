@@ -304,6 +304,32 @@ textarea {
   line-height: 1.5;
 }
 
+/* fallback */
+@font-face {
+  font-family: "Material Icons";
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/materialicons/v141/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.woff2)
+    format("woff2");
+  font-display: swap;
+}
+
+.material-icons {
+  font-family: "Material Icons";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 1;
+  letter-spacing: normal;
+  text-transform: none;
+  display: inline-block;
+  white-space: nowrap;
+  word-wrap: normal;
+  direction: ltr;
+  -webkit-font-feature-settings: "liga";
+  -webkit-font-smoothing: antialiased;
+}
+
 h1,
 h2,
 h3,
@@ -617,7 +643,7 @@ header {
   width: 12em;
   padding: 0.5em 1em;
   position: relative;
-  left: calc(50% - 6em);
+  left: calc(50% - 7em);
   font-size: 0.9em;
   background: #28536b;
   color: white;
@@ -639,7 +665,7 @@ header {
   position: absolute;
   opacity: 0;
   right: 0;
-  top: 25%;
+  top: 30%;
   transition: 0.5s;
 }
 
@@ -731,6 +757,7 @@ header {
 .arrow_box .more {
   width: 8em;
   margin: 0;
+  margin-top: 1em;
   left: calc(50% - 5em);
 }
 .arrow_box p {
@@ -825,10 +852,13 @@ header {
   border-radius: 50%;
 }
 .about-area p {
-  font-size: 1.2em;
-  font-weight: 500;
-  letter-spacing: 0.1em;
+  font-weight: normal;
   text-align: left;
+  letter-spacing: 0.1em;
+  font-size: 1em;
+  color: #8a6c66;
+  margin-bottom: 0;
+  margin-top: 2em;
   padding: 1em;
 }
 
@@ -846,6 +876,7 @@ header {
 .about p {
   padding: 2em 0 1em;
   margin-top: 4em;
+  margin-bottom: 0;
 }
 
 @media screen and (max-width: 32em) {
@@ -1145,6 +1176,36 @@ textarea {
 }
 
 .max-width {
-  max-width: 1500px;
+  max-width: 1400px;
   margin: 0 auto;
+}
+
+@media screen and (min-width: 1400px) {
+  header {
+    margin: 0;
+    position: fixed;
+    top: 0;
+    left: calc(50% - 700px);
+    width: 100%;
+    z-index: 100;
+    max-width: 1400px;
+  }
+}
+
+.social-icons {
+  font-size: 1em;
+  color: white;
+  display: inline-block;
+  padding: 0.5em 1em;
+  transition: transform 0.3s ease-out;
+}
+
+.social-icons:hover {
+  transform: scale(1.2);
+}
+.footer-link {
+  color: white;
+  padding: 1em 0;
+  font-size: 0.9em;
+  text-decoration: none;
 }
